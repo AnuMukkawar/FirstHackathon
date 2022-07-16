@@ -1,0 +1,12 @@
+.navbarColor{
+    background-color: purple;
+}
+
+body{
+    background-image: linear-gradient(red,blue);
+}
+
+p{
+    margin: 0%;
+    padding: 0px;
+}
